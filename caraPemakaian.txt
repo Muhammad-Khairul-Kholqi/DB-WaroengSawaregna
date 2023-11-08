@@ -1,0 +1,4 @@
+CARA MEMAKAI API INI AGAR TERSAMBUNG DENGAN PROJECT WaroengSawaregna
+
+import database yang sudah ada dengan nama (api-chikenfire.sql)
+lalu jalankan server laravel: php artisan serve --port=5000 ->gunakan port 5000!
